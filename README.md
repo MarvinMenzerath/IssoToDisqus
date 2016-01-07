@@ -1,5 +1,5 @@
 # IssoToDisqus
-Converts a Isso database to a Disqus import file.
+Converts an Isso database to a Disqus import file.
 
 ## How To
 1. Install Node.js and clone this repository.
